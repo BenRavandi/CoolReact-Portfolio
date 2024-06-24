@@ -6,7 +6,7 @@
 Making a professional portfolio app using the most in-demand front-end library "React", how cool would that be. This portfolio is a single-page application that uses React's state hook to render content based on the navigation link selected, giving the appearance of multiple pages. All React components in this app are created using JSX, an XML/HTML-like syntax. JSX allows javascript expressions to be added along side the HTML-like elements within components. In addition to showcasing my front/back-end projects in the portfolio view, this app demonstrates my knowledge of React, an incresingly useful skill to have as a full-stack developer. 
 
 ## Deployed Application: 
-https://emholmes.github.io/react-portfolio/ 
+https://mycool-react-portfolio.netlify.app/ 
 
 
 ## Table of Contents
@@ -45,7 +45,7 @@ https://emholmes.github.io/react-portfolio/
 
   ## Test
   The following link will take you to my Cool React Portfolio: <br>
- <a href="https://www.loom.com/share/e0ab8766f8314f2bb9440329df139ec5">Visit CoolReactPortfolio!</a>
+ <a href="https://mycool-react-portfolio.netlify.app/">Visit CoolReactPortfolio!</a>
 
   ## Questions
   - GitHub: [BenRavandi](https://github.com/BenRavandi)
