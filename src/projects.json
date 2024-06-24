@@ -1,0 +1,58 @@
+[
+  {
+    "id": "project-one", 
+    "name": "First Sample Portfolio", 
+    "description": "HTML | CSS", 
+    "pageUrl": "https://benravandi.github.io/BenProfessionalPortfolio/", 
+    "githubUrl": "https://github.com/BenRavandi/BenProfessionalPortfolio"
+  },
+  {
+    "id": "project-two", 
+    "name": "Flavor Alchemy", 
+    "description": "MVC | Sequelize | Node.js | RESTful API", 
+    "pageUrl": "https://hammerc124.github.io/Group-Project-1/", 
+    "githubUrl": "https://github.com/BenRavandi/Flavor-Alchemy"
+  },
+  {
+    "id": "project-three", 
+    "name": "Horiseon Marketing",
+    "description": "MVC | Express | Sequelize", 
+    "pageUrl": "https://benravandi.github.io/challenge1/", 
+    "githubUrl": "https://github.com/BenRavandi/challenge1"
+  },
+  {
+    "id": "project-four", 
+    "name": "Weather Dashboard", 
+    "description": "Javascript | Server-side API", 
+    "pageUrl": "https://benravandi.github.io/Weather-Dashboard/", 
+    "githubUrl": "https://github.com/BenRavandi/Weather-Dashboard"
+  },
+  {
+    "id": "project-five", 
+    "name": "Workday Scheduler", 
+    "description": "Bootstrap | jQuery | Third-party API", 
+    "pageUrl": "https://benravandi.github.io/Work-Day-Scheduler/", 
+    "githubUrl": "https://github.com/BenRavandi/Work-Day-Scheduler"
+  },
+  {
+    "id": "project-six", 
+    "name": "PWA Text Editor", 
+    "description": "Express | Webpack | Babel | idb | CSS Loader", 
+    "pageUrl": "https://pro-pwa-text-editor-13.onrender.com/", 
+    "githubUrl": "https://github.com/BenRavandi/Pro-PWA-Text-Editor"
+  },
+  {
+    "id": "project-seven", 
+    "name": "JS Code Quiz", 
+    "description": "Javascript", 
+    "pageUrl": "https://benravandi.github.io/Code-Quiz/", 
+    "githubUrl": "https://github.com/BenRavandi/Code-Quiz"
+  },
+  {
+    "id": "project-eight", 
+    "name": "Password Generator", 
+    "description": "Javascript", 
+    "pageUrl": "https://benravandi.github.io/PasswordGeneratorApp/", 
+    "githubUrl": "https://github.com/BenRavandi/PasswordGeneratorApp"
+  }
+]
